@@ -1,0 +1,356 @@
+[07:38:24] [main/INFO]: Loading for game Minecraft 20w19a
+[07:38:27] [main/WARN]: Mod `vanilla-hammers` (1.7.0) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[07:38:27] [main/WARN]: Mod `tinyfuel` (0.2.1) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[07:38:27] [main/INFO]: [FabricLoader] Loading 80 mods: fermion@1.14.165, fabric-renderer-api-v1@0.2.13+eae12eb8d2, fabric-keybindings-v0@0.1.1+dfdb52d6d2, libcd@2.4.0+20w17a, grindenchantments@1.0.3-20w19a, fabricloader@0.8.2+build.194, vanilla-hammers@1.7.0, org_jetbrains_kotlinx_kotlinx-coroutines-core@1.3.3, moenchantments@1.11.0, fabric-containers-v0@0.1.7+d249f7b6d2, fabric-dimensions-v1@0.4.1+686e6e57d2, fabric-object-builder-api-v1@1.2.0+57dbcc4cd2, conveyance@0.5.1+20w19a, fermion-modkeys@1.5.157, fabric-api-base@0.1.3+12a8474cd2, reborncore@4.2.9+build.20, org_reflections_reflections@0.9.12, fabric-rendering-data-attachment-v1@0.1.3+b7f9825dd2, campanion@1.1.4+build.13, fabric-textures-v0@1.0.4+eae12eb8d2, creativebuttonmover@0.2.1, ninjaphenix-container-lib@0.1.9, fabric-rendering-fluids-v1@0.1.7+12a8474cd2, expandedstorageapi@0.0.7, org_jetbrains_kotlin_kotlin-stdlib@1.3.61, fabric-blockrenderlayer-v1@1.1.4+c6a8ea89d2, craftingspawn@0.3.4, tinyfuel@0.2.1, fabric-renderer-registries-v1@2.0.1+5a0f9a60d2, org_jetbrains_kotlin_kotlin-stdlib-jdk7@1.3.61, fabric-loot-tables-v1@0.1.6+2f56dff2d2, mcf-easyfeed@1.1.0-16s, org_javassist_javassist@3.26.0-GA, fabric@0.10.7+build.344-1.16, biow0rks@0.4.4-1.16, fabric-particles-v1@0.1.2+12a8474cd2, fabric-networking-v0@0.1.9+1a47cd78d2, wrenchable@0.3.1+20w19a, techreborn@3.3.11+build.25, minecraft@1.16-alpha.20.19.a, fabric-networking-blockentity-v0@0.2.5+b50ffc7bd2, jankson@2.0.1+j1.2.0, fabric-command-api-v1@1.0.2+fbdec548d2, cloth-basic-math@0.5.0, org_jetbrains_kotlin_kotlin-stdlib-jdk8@1.3.61, fabric-tool-attribute-api-v1@1.0.4+fa840743d2, ring_of_growth@1.0.0, fabric-renderer-indigo@0.2.29+6c0e72dfd2, fabric-biomes-v1@0.2.2+2fd224cad2, fabric-crash-report-info-v1@0.1.2+b7f9825dd2, fabric-events-interaction-v0@0.3.0+04b99794d2, fabric-language-kotlin@1.3.61+build.1, gubbins@beta-1.2.6-20w18a, fabric-rendering-v0@1.1.0+53410490d2, fabric-rendering-v1@1.1.0+304e48ebd2, cloth-config2@4.0.5-unstable, ring_of_miner@1.0.2, org_jetbrains_kotlinx_kotlinx-coroutines-jdk8@1.3.3, sorcerycraft@1.2.8, autoconfig1u@2.0.1, fabric-resource-loader-v0@0.1.14+2fd224cad2, chainmail@0.0.4, org_jetbrains_kotlin_kotlin-reflect@1.3.61, expandedstorage@4.12.40, ring_of_enderchest@1.0.5, fabric-content-registries-v0@0.1.5+88afe607d2, fabric-tag-extensions-v0@0.2.4+2fd224cad2, tinyconfig@1.1.2, fabric-commands-v0@0.2.0+52d30836d2, fabric-registry-sync-v0@0.3.2+d1e1b46cd2, blast@1.3, ring_of_attraction@1.0.1, water-erosion@1.1.1, fabric-mining-levels-v0@0.1.2+b764ce99d2, fabric-events-lifecycle-v0@0.1.2+1a47cd78d2, fabric-item-groups-v0@0.1.12+63435d4bd2, fabric-models-v0@0.1.0+dfdb52d6d2, team_reborn_energy@0.1.0, fabric-object-builders-v0@0.5.1+57dbcc4cd2, org_jetbrains_annotations@17.0.0
+[07:38:27] [main/WARN]: Mod `gubbins` (beta-1.2.6-20w18a) does not respect SemVer - comparison support is limited.
+[07:38:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/mathe/Downloads/20w19aServer/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[07:38:28] [main/WARN]: Reference map 'wrenchable-refmap.json' for wrenchable.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:38:28] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
+[07:38:28] [main/WARN]: @Mixin target net.minecraft.class_746 was not found sorcerycraft.mixins.json:MixinClientPlayerEntity
+[07:38:28] [main/WARN]: Error loading class: net/minecraft/class_170$class_172 (java.lang.ClassNotFoundException: net/minecraft/class_170$class_172)
+[07:38:28] [main/WARN]: @Mixin target net.minecraft.class_170$class_172 was not found mixins.libcd.json:MixinAdvancementRewardsDeserializer
+[07:38:28] [main/WARN]: Error loading class: net/minecraft/class_3802 (java.lang.ClassNotFoundException: net/minecraft/class_3802)
+[07:38:28] [main/WARN]: @Mixin target net.minecraft.class_3802 was not found grindenchantments.mixins.json:GrindstoneScreenMixin
+[07:38:34] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[07:38:34] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[07:38:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[07:38:35] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[07:38:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:38:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:38:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:38:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:38:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:38:37] [main/INFO]: Reborn core is done for now, now to let other mods have their turn...
+[07:38:37] [main/INFO]: [STDOUT]: Spawning active!
+[07:38:37] [main/INFO]: [STDOUT]: mcf-easyfeed init!
+[07:38:39] [main/INFO]: Loaded torus size map in 112ms
+[07:38:39] [main/INFO]: TechReborn setup done!
+[07:38:40] [Server thread/INFO]: Starting minecraft server version 20w19a
+[07:38:40] [Server thread/INFO]: Loading properties
+[07:38:40] [Server thread/INFO]: Default game type: SURVIVAL
+[07:38:40] [Server thread/INFO]: Generating keypair
+[07:38:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:38:40] [Server thread/INFO]: Using default channel type
+[07:38:41] [Server thread/INFO]: Preparing level "world"
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/blast, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/campanion, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/conveyance, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/craftingspawn, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/expandedstorage, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/fabric-tool-attribute-api-v1, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/gubbins, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/libcd, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/ring_of_attraction, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/ring_of_enderchest, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/ring_of_growth, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/ring_of_miner, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/sorcerycraft, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/techreborn, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/tinyfuel, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack fabric/vanilla-hammers, loading it automatically
+[07:38:41] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[07:38:41] [Server thread/INFO]: Reloading ResourceManager: Default, BLAST, Campanion, Conveyance, Crafting Spawn, ExpandedStorage, Fabric Tool Attribute API (v1), Gubbins, LibCapableData, Ring Of Attraction, Ring of Enderchest, Ring Of Growth, Ring Of Miner, SorceryCraft, Tech Reborn, Tiny Fuel, Vanilla Hammers
+[07:38:55] [Server thread/ERROR]: Parsing error loading recipe blast:gunpowder_block
+com.google.gson.JsonSyntaxException: Unknown item 'blast:gunpowder_block'
+	at net.minecraft.class_1869.method_17878(class_1869.java:233) ~[intermediary-server.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:401) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:233) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:254) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:241) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:115) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:53) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:34) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[intermediary-server.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:71) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) [intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:789) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:159) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:771) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:765) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3752(MinecraftServer.java:1520) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3800(MinecraftServer.java:512) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServer.java:365) [intermediary-server.jar:?]
+	at net.minecraft.class_3176.method_3823(class_3176.java:189) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:673) [intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+[07:38:55] [Server thread/ERROR]: Parsing error loading recipe craftingspawn:pigman
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:zombie_pigman_spawn_egg'
+	at net.minecraft.class_1869.method_17878(class_1869.java:233) ~[intermediary-server.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:401) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:233) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:254) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:241) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:115) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:53) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:34) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[intermediary-server.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:71) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) [intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:789) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:159) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:771) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:765) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3752(MinecraftServer.java:1520) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3800(MinecraftServer.java:512) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServer.java:365) [intermediary-server.jar:?]
+	at net.minecraft.class_3176.method_3823(class_3176.java:189) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:673) [intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+[07:38:55] [Server thread/ERROR]: Parsing error loading recipe blast:gunpowder
+com.google.gson.JsonSyntaxException: Unknown item 'blast:gunpowder_block'
+	at net.minecraft.class_1856.method_17873(class_1856.java:165) ~[intermediary-server.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:401) ~[?:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:165) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:147) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1867$class_1868.method_8144(class_1867.java:98) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1867$class_1868.method_8142(class_1867.java:83) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1867$class_1868.method_8121(class_1867.java:79) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:115) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:53) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:34) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[intermediary-server.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:71) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) [intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:789) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:159) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:771) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:765) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3752(MinecraftServer.java:1520) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3800(MinecraftServer.java:512) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServer.java:365) [intermediary-server.jar:?]
+	at net.minecraft.class_3176.method_3823(class_3176.java:189) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:673) [intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+[07:38:55] [Server thread/INFO]: Loaded 26 recipes
+[07:38:56] [Server thread/ERROR]: Couldn't parse loot table blast:blocks/explosive_barrel
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'blast:explosive_barrel'
+	at net.minecraft.class_3518.method_17995(class_3518.java:127) ~[intermediary-server.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:401) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:135) ~[intermediary-server.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:54) ~[intermediary-server.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:35) ~[intermediary-server.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:156) ~[intermediary-server.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:130) ~[intermediary-server.jar:?]
+	at net.minecraft.class_75$class_76.method_407(class_75.java:53) ~[intermediary-server.jar:?]
+	at net.minecraft.class_75$class_76.deserialize(class_75.java:41) ~[intermediary-server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:440) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:448) ~[intermediary-server.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:169) ~[intermediary-server.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:165) ~[intermediary-server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:440) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:456) ~[intermediary-server.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:213) ~[intermediary-server.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:209) ~[intermediary-server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server.jar:?]
+	at net.minecraft.class_60.method_20711(class_60.java:45) ~[intermediary-server.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1425) ~[?:?]
+	at net.minecraft.class_60.method_20712(class_60.java:43) ~[intermediary-server.jar:?]
+	at net.minecraft.class_60.method_18788(class_60.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[intermediary-server.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:71) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) [intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:789) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:159) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:771) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:765) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3752(MinecraftServer.java:1520) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3800(MinecraftServer.java:512) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServer.java:365) [intermediary-server.jar:?]
+	at net.minecraft.class_3176.method_3823(class_3176.java:189) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:673) [intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+[07:38:56] [Server thread/ERROR]: Couldn't parse loot table blast:blocks/gunpowder_block
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'blast:gunpowder_block'
+	at net.minecraft.class_3518.method_17995(class_3518.java:127) ~[intermediary-server.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:401) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:135) ~[intermediary-server.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:54) ~[intermediary-server.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:35) ~[intermediary-server.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:156) ~[intermediary-server.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:130) ~[intermediary-server.jar:?]
+	at net.minecraft.class_75$class_76.method_407(class_75.java:53) ~[intermediary-server.jar:?]
+	at net.minecraft.class_75$class_76.deserialize(class_75.java:41) ~[intermediary-server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:440) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:448) ~[intermediary-server.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:169) ~[intermediary-server.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:165) ~[intermediary-server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:440) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:456) ~[intermediary-server.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:213) ~[intermediary-server.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:209) ~[intermediary-server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server.jar:?]
+	at net.minecraft.class_60.method_20711(class_60.java:45) ~[intermediary-server.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1425) ~[?:?]
+	at net.minecraft.class_60.method_20712(class_60.java:43) ~[intermediary-server.jar:?]
+	at net.minecraft.class_60.method_18788(class_60.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[intermediary-server.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:71) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) [intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:789) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:159) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:771) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:765) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3752(MinecraftServer.java:1520) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3800(MinecraftServer.java:512) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServer.java:365) [intermediary-server.jar:?]
+	at net.minecraft.class_3176.method_3823(class_3176.java:189) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:673) [intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+[07:38:56] [Server thread/INFO]: Loaded 1093 advancements
+[07:39:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:39:04] [Worker-6/INFO]: Preparing spawn area: 0%
+[07:39:04] [Worker-4/INFO]: Preparing spawn area: 0%
+[07:39:05] [Worker-5/INFO]: Preparing spawn area: 1%
+[07:39:05] [Worker-1/INFO]: Preparing spawn area: 3%
+[07:39:06] [Worker-6/INFO]: Preparing spawn area: 6%
+[07:39:06] [Worker-2/INFO]: Preparing spawn area: 10%
+[07:39:07] [Worker-5/INFO]: Preparing spawn area: 14%
+[07:39:07] [Worker-6/INFO]: Preparing spawn area: 17%
+[07:39:08] [Worker-2/INFO]: Preparing spawn area: 21%
+[07:39:08] [Worker-6/INFO]: Preparing spawn area: 23%
+[07:39:09] [Worker-5/INFO]: Preparing spawn area: 28%
+[07:39:09] [Worker-5/INFO]: Preparing spawn area: 31%
+[07:39:10] [Worker-7/INFO]: Preparing spawn area: 32%
+[07:39:10] [Worker-6/INFO]: Preparing spawn area: 33%
+[07:39:11] [Worker-3/INFO]: Preparing spawn area: 33%
+[07:39:11] [Worker-2/INFO]: Preparing spawn area: 42%
+[07:39:12] [Worker-6/INFO]: Preparing spawn area: 44%
+[07:39:12] [Worker-3/INFO]: Preparing spawn area: 48%
+[07:39:13] [Worker-2/INFO]: Preparing spawn area: 48%
+[07:39:13] [Worker-1/INFO]: Preparing spawn area: 54%
+[07:39:14] [Worker-6/INFO]: Preparing spawn area: 57%
+[07:39:14] [Worker-5/INFO]: Preparing spawn area: 61%
+[07:39:15] [Worker-5/INFO]: Preparing spawn area: 65%
+[07:39:15] [Worker-3/INFO]: Preparing spawn area: 68%
+[07:39:16] [Worker-6/INFO]: Preparing spawn area: 70%
+[07:39:16] [Worker-4/INFO]: Preparing spawn area: 72%
+[07:39:17] [Worker-7/INFO]: Preparing spawn area: 76%
+[07:39:17] [Worker-3/INFO]: Preparing spawn area: 79%
+[07:39:18] [Worker-4/INFO]: Preparing spawn area: 83%
+[07:39:18] [Worker-2/INFO]: Preparing spawn area: 84%
+[07:39:19] [Worker-3/INFO]: Preparing spawn area: 86%
+[07:39:19] [Worker-3/INFO]: Preparing spawn area: 90%
+[07:39:20] [Worker-2/INFO]: Preparing spawn area: 93%
+[07:39:20] [Worker-5/INFO]: Preparing spawn area: 97%
+[07:39:21] [Server thread/INFO]: Time elapsed: 16835 ms
+[07:39:21] [Server thread/INFO]: Done (40.153s)! For help, type "help"
+[07:39:21] [Server thread/WARN]: @Inject(@At("INVOKE")) Shift.BY=3 on biom4st3r_moenchantments.json:EnchantmentHelperMixin::handler$zde000$isAcceptibleForMoEnchantment exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[07:39:24] [User Authenticator #1/INFO]: UUID of player Falkaga is 65e094c9-baef-4277-9108-d47c875f90bc
+[07:39:24] [Server thread/INFO]: Falkaga[/192.168.1.72:55885] logged in with entity id 27 at (-56.5, 63.0, -255.5)
+[07:39:24] [Server thread/INFO]: Falkaga joined the game
+[07:39:25] [Netty Server IO #2/ERROR]: Could not serialize com.thebrokenrail.sorcerycraft.command.SpellArgumentType@6d951515 (class com.thebrokenrail.sorcerycraft.command.SpellArgumentType) - will not be sent to client!
+[07:39:25] [Netty Server IO #2/ERROR]: Could not serialize com.thebrokenrail.sorcerycraft.command.SpellArgumentType@785051cb (class com.thebrokenrail.sorcerycraft.command.SpellArgumentType) - will not be sent to client!
+[07:39:25] [Netty Server IO #2/ERROR]: Could not serialize com.thebrokenrail.sorcerycraft.command.SpellArgumentType@75bf5e09 (class com.thebrokenrail.sorcerycraft.command.SpellArgumentType) - will not be sent to client!
+[07:39:25] [Netty Server IO #2/ERROR]: Could not serialize com.thebrokenrail.sorcerycraft.command.SpellArgumentType@46119177 (class com.thebrokenrail.sorcerycraft.command.SpellArgumentType) - will not be sent to client!
+[07:39:37] [Server thread/INFO]: [Falkaga: Set own game mode to Creative Mode]
+[07:44:25] [Server thread/WARN]: Falkaga moved too quickly! 7.327536329270231,0.0,-7.586753445133581
+[07:44:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
+[07:48:45] [Server thread/INFO]: [Falkaga: Teleported Falkaga to 25.5, 112.04473393374367, 330.5]
+[07:52:28] [Server thread/INFO]: [Falkaga: Teleported Falkaga to 93.5, 126.24279167035273, -719.5]
+[07:53:46] [Server thread/INFO]: [Falkaga: Teleported Falkaga to -799.5, 126.21333436096701, -449.5]
+[07:53:46] [Server thread/WARN]: Falkaga moved too quickly! -1297.8233855660296,0.0,99.90420108735339
+[07:54:37] [Server thread/INFO]: [Falkaga: Teleported Falkaga to -249.5, 126.21333436096701, -2199.5]
+[07:54:37] [Server thread/WARN]: Falkaga moved too quickly! 550.0,0.0,-1750.0
+[07:54:37] [Server thread/WARN]: Falkaga moved too quickly! 550.0,0.0,-1750.0
+[07:54:59] [Server thread/INFO]: [Falkaga: Teleported Falkaga to -249.5, 126.21333436096701, -1199.5]
+[07:54:59] [Server thread/WARN]: Falkaga moved too quickly! 0.0,0.0,1000.0
+[07:54:59] [Server thread/WARN]: Falkaga moved too quickly! 0.0,0.0,1000.0
+[07:56:41] [Server thread/INFO]: [Falkaga: Teleported Falkaga to -49.5, 126.21333436096701, -324.5]
+[07:57:33] [Server thread/INFO]: Falkaga lost connection: Disconnected
+[07:57:33] [Server thread/INFO]: Falkaga left the game
+[08:01:27] [User Authenticator #2/INFO]: UUID of player Falkaga is 65e094c9-baef-4277-9108-d47c875f90bc
+[08:01:27] [Server thread/INFO]: Falkaga[/192.168.1.72:56631] logged in with entity id 23897 at (-47.70551282762977, 80.11813560797107, -254.7461321153486)
+[08:01:27] [Server thread/INFO]: Falkaga joined the game
+[08:01:28] [Netty Server IO #5/ERROR]: Could not serialize com.thebrokenrail.sorcerycraft.command.SpellArgumentType@6d951515 (class com.thebrokenrail.sorcerycraft.command.SpellArgumentType) - will not be sent to client!
+[08:01:28] [Netty Server IO #5/ERROR]: Could not serialize com.thebrokenrail.sorcerycraft.command.SpellArgumentType@785051cb (class com.thebrokenrail.sorcerycraft.command.SpellArgumentType) - will not be sent to client!
+[08:01:28] [Netty Server IO #5/ERROR]: Could not serialize com.thebrokenrail.sorcerycraft.command.SpellArgumentType@75bf5e09 (class com.thebrokenrail.sorcerycraft.command.SpellArgumentType) - will not be sent to client!
+[08:01:28] [Netty Server IO #5/ERROR]: Could not serialize com.thebrokenrail.sorcerycraft.command.SpellArgumentType@46119177 (class com.thebrokenrail.sorcerycraft.command.SpellArgumentType) - will not be sent to client!
+[08:01:36] [Server thread/INFO]: [Falkaga: Teleported Falkaga to -999.5, 80.11813560797107, 2300.5]
+[08:01:55] [Server thread/INFO]: [Falkaga: Teleported Falkaga to 2300.5, 80.11813560797107, -999.5]
+[08:01:55] [Server thread/WARN]: Falkaga moved too quickly! 3300.0,0.0,-3300.0
+[08:04:26] [Server thread/WARN]: Falkaga moved too quickly! -4.427546007543242,0.0,-9.948105358104385
+[08:08:56] [Server thread/INFO]: [Falkaga: Set the world spawn point to 2007, 71, -2056]
+[08:09:36] [Server thread/INFO]: Falkaga has made the advancement [Getting an Upgrade]
+[08:11:21] [Server thread/INFO]: Falkaga lost connection: Disconnected
+[08:11:21] [Server thread/INFO]: Falkaga left the game
+[08:11:44] [Server thread/INFO]: Saving the game (this may take a moment!)
+[08:11:44] [Server thread/INFO]: Saved the game
+[08:11:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:11:46] [Server thread/INFO]: exit<--[HERE]
+[08:11:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:11:48] [Server thread/INFO]:  quit<--[HERE]
+[08:11:49] [Server thread/INFO]: Stopping the server
+[08:11:49] [Server thread/INFO]: Stopping server
+[08:11:49] [Server thread/INFO]: Saving players
+[08:11:49] [Server thread/INFO]: Saving worlds
+[08:11:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:11:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:11:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:11:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:11:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:11:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:11:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:11:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:11:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

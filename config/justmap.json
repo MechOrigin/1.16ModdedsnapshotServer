@@ -1,0 +1,8 @@
+{
+  "allow_hostile_radar": "true",
+  "use_game_rules": "true",
+  "allow_creatures_radar": "true",
+  "allow_players_radar": "true",
+  "allow_entities_radar": "true",
+  "allow_caves_map": "true"
+}
